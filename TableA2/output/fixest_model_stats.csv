@@ -1,0 +1,5 @@
+group,outcome,model_family,nobs,r2,r2_type
+MDP,Hit15,binomial_logit,4199088,0.0937684536807578,pseudo_r2
+MDP,Log1p_NC1,ols,4199128,0.169535213356145,adjusted_r2
+IDP,Hit15,binomial_logit,2211780,0.0953041789094307,pseudo_r2
+IDP,Log1p_NC1,ols,2211814,0.170406123896692,adjusted_r2
